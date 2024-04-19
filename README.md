@@ -1,2 +1,8 @@
 # CS200-Final-Project
-Graham Harding and Macey Kessler's final project for CS 200
+
+## A text adventure
+
+Choose your own adventure game
+Written for CS200, Ball State University
+Graham Harding, Macey Kessler
+Using [twine](http://twinery.org)
